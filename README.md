@@ -21,5 +21,5 @@ I am a Frontend Engineer who has a passion for technology. I am committted to gr
 📫 How to reach me:<br>
 LinkedIn: @pierretulifau<br>
 Gmail: p2lifau@gmail.com<br>
-Personal Site: <a href="pierretulifau.com" target=_blank>pierretulifau.com</a>
+Personal Site: [sneakerLab App via Heroku]([https://sneakerfloatbackend.herokuapp.com/items](https://www.pierretulifau.com/))
 
