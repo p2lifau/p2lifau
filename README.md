@@ -19,7 +19,7 @@ Born in Long Beach, CA 🌴 <br>
 I am a Frontend Engineer who has a passion for technology. I am committted to growth and learning and am focused primarily on being a valuable agile team member by building front-end architecture that effectively brings front end designs to life. 
 <br>
 📫 How to reach me:<br>
-LinkedIn: @pierretulifau<br>
+LinkedIn: [@pierretulifau ](https://www.linkedin.com/in/pierretulifau/) <br>
 Gmail: p2lifau@gmail.com<br>
-[Personal Site: ](https://www.pierretulifau.com/)
+Personal Site: [pierretulifau.com ](https://www.pierretulifau.com/)
 
