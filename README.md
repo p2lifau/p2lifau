@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Born in Long Beach, CA 🌴
+Born in Long Beach, CA 🌴 <br>
 I am a Frontend Engineer who has a passion for technology. I am committted to growth and learning and am focused primarily on being a valuable agile team member by building front-end architecture that effectively brings front end designs to life. 
